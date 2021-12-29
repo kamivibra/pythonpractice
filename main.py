@@ -55,6 +55,11 @@
 # print(Jerry)
 # print(bean)
 # print(scooby)
+# some useful string methods.
+
+# name = "kamran khan"
+# print(len(name))  # if you want to know the length of a variable
+# print(name.find("h"))   # if you would like to find at what number is a specific word in a variable.
 
 
 
