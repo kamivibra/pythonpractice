@@ -60,9 +60,27 @@
 # name = "kamran khan"
 # print(len(name))  # if you want to know the length of a variable
 # print(name.find("h"))   # if you would like to find at what number is a specific word in a variable.
+# print(name.capitalize())    # to capitalize the first letter of your first word.
+# print(name.upper())     # This will make your entire code of line or variable capital.
+# print(name.lower())         # This will make your entire code of line or variable lowercase.
+# print(name.isdigit())  #  this will check if the variable is digits or characters will give us true and false.
+# print(name.isdecimal())   # to check if variable contains a decimal results True or False.
+# print(name.isalpha()) # to check if variable contains alphabetic, remove the space between the name will result True.
+# print(name.count("a"))  # this will check how many a's are in the variable.
+# print(name.replace("k", "C"))  # this will replace k with C anywhere in variable.
+# print(name * 3)  # this will multiply the variable 3 times, and will print it 3 times.
+#################################################################################################
+# TYPE CASTING.. converting a data type of a value to another data type.
+# x = 1  # int
+# y = 2.0  # Float
+# z = "3"  # str
 
-
-
+# x = float(x)    # type casted int to a float.
+# z = int(z)  # type casted str to int.
+# y = int(y)  # we type casted the float to int.
+# print(x)
+# print(y)
+# print(z*3)
 
 
 
